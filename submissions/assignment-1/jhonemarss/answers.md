@@ -12,4 +12,4 @@
 
 **ANSWER_6:** The recovery is proven when the Course Materials Portal starts successfully and can serve course materials to users without showing the permission-denied error.
 
-**ANSWER_7_BRIDGE:** The component is the server file permissions, detection is done through monitoring, recovery is handled through automated remediation, and the fix is confirmed through a service health check.
+**ANSWER_7_BRIDGE:** component=server file permissions, detect=monitoring, recover=automated remediation, proof=service health check
